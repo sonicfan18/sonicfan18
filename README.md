@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/de/view/kaneda-shotaro-akira-akira-1988-shotaro-kaneda-shut-up-gif-6819829710741341248"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1040759899359039519/1317538731913121852/kaneda-shotaro-akira.gif?ex=675f0d10&is=675dbb90&hm=068e74cc2946b8966b54148238a6b5739150b485ca1bcbcf707aaad34e4246c8&"  />
 </div>
 
 ###
