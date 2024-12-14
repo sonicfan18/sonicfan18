@@ -21,5 +21,5 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/de/view/tetsuo-transformation-akira-gif-12087244"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1040759899359039519/1317557607673757786/tetsuo-transformation.gif?ex=675f1ea4&is=675dcd24&hm=cbc93ec8753955acc521b0d251cebde4b545a8d321ffb80cfce78b10dfc9558b&"  />
 </div>
