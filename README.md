@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1040759899359039519/1317538731913121852/kaneda-shotaro-akira.gif?ex=675f0d10&is=675dbb90&hm=068e74cc2946b8966b54148238a6b5739150b485ca1bcbcf707aaad34e4246c8&"  />
+  <img height="100" src="https://cdn.discordapp.com/attachments/1040759899359039519/1317538731913121852/kaneda-shotaro-akira.gif?ex=675f0d10&is=675dbb90&hm=068e74cc2946b8966b54148238a6b5739150b485ca1bcbcf707aaad34e4246c8&"  />
 </div>
 
 ###
@@ -21,5 +21,5 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1040759899359039519/1317557607673757786/tetsuo-transformation.gif?ex=675f1ea4&is=675dcd24&hm=cbc93ec8753955acc521b0d251cebde4b545a8d321ffb80cfce78b10dfc9558b&"  />
+  <img height="100" src="https://cdn.discordapp.com/attachments/1040759899359039519/1317557607673757786/tetsuo-transformation.gif?ex=675f1ea4&is=675dcd24&hm=cbc93ec8753955acc521b0d251cebde4b545a8d321ffb80cfce78b10dfc9558b&"  />
 </div>
