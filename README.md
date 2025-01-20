@@ -20,8 +20,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img height="300" src="https://cdn.discordapp.com/attachments/1040759899359039519/1330925917383557151/Screenshot_2024-12-15_195730.png?ex=678fc0da&is=678e6f5a&hm=52fcc4d5bd4191f610df3bfccc82218c7b488efec6cf026c6202695dfe2c2f1e&"  />
 </div>
