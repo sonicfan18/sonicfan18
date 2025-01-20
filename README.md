@@ -3,6 +3,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://cdn.discordapp.com/attachments/1040759899359039519/1322738654132703387/Untitled210_20241229023056.png?ex=678fa19e&is=678e501e&hm=c822cebacd3457d89359cf0df2aee9caa57f6388a6764d94b173db4563ef2569&"  />
+  <img height="200" src="https://cdn.discordapp.com/attachments/1040759899359039519/1330922996017270794/Untitled210_20241229023056.png?ex=678fbe21&is=678e6ca1&hm=8ae5e4c05b89c183b75f30323061bb77e60ec96a289d269434a5f2c89e638f1b&"  />
 </div>
 
