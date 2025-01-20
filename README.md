@@ -20,10 +20,14 @@
 
 ###
 
-<img align="right" height="300" src="https://cdn.discordapp.com/attachments/1040759899359039519/1330929211258568825/artworks-000104670389-sqs9om-t500x500.jpg?ex=678fc3eb&is=678e726b&hm=04cd8da039601c4d17f13622485fd5acc75240c0140f79f72247211054ceb448&"  />
+<div align="center">
+  <img height="300" src="https://cdn.discordapp.com/attachments/1040759899359039519/1330929211258568825/artworks-000104670389-sqs9om-t500x500.jpg?ex=678fc3eb&is=678e726b&hm=04cd8da039601c4d17f13622485fd5acc75240c0140f79f72247211054ceb448&"  />
+</div>
 
 ###
 
-<img align="left" height="300" src="https://cdn.discordapp.com/attachments/1040759899359039519/1330927040043417723/The_Simple_Plot_of_Metal_Gear_Solid.png?ex=678fc1e5&is=678e7065&hm=9289044a0cb30600f5f2474b4873730e0df7a1a51edc6a21ba69ba84cfc42d9c&"  />
+<div align="center">
+  <img height="300" src="https://cdn.discordapp.com/attachments/1040759899359039519/1330927040043417723/The_Simple_Plot_of_Metal_Gear_Solid.png?ex=678fc1e5&is=678e7065&hm=9289044a0cb30600f5f2474b4873730e0df7a1a51edc6a21ba69ba84cfc42d9c&"  />
+</div>
 
 ###
