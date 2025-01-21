@@ -1,4 +1,5 @@
 <p align="center">https://www.youtube.com/watch?v=Nja0Obgg2gU</p>
+<p align="center">a wise man once said: "everyone picks their nose, but its what you do with your boogers afterwards that defines who you are"</p>
 
 ###
 
@@ -7,10 +8,6 @@
 <div align="center">
   <img height="200" src="https://cdn.discordapp.com/attachments/1040759899359039519/1330924962797719562/image07_1.gif?ex=678fbff6&is=678e6e76&hm=0310a460b5260f64d50cc0969b877a8591fa33950b2cfa197f7aeb621c61d81b&https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-###
-
-<p align="center">a wise man once said: "everyone picks their nose, but its what you do with your boogers afterwards that defines who you are"</p>
 
 ###
 
