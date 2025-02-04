@@ -1,4 +1,4 @@
-<p align="center">https://www.youtube.com/watch?v=o5FOQtS1az0&list=PLeV8ODWOOQ_PvvSJl4e-mRVdgT0BQsW6z&index=26</p>
+<p align="center">https://youtu.be/o5FOQtS1az0?si=7tgSFtNn_ut8hucT</p>
 <p align="center">a wise man once said: "everyone picks their nose, but its what you do with your boogers afterwards that defines who you are"</p>
 
 ###
