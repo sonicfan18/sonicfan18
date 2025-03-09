@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/Xx1dS5s" data-context="false" ><a href="//imgur.com/a/Xx1dS5s"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>"  />
+  <img height="200" src="<blockquote class="https://imgur.com/a/Xx1dS5s"  />
 </div>
 
 ###
