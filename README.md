@@ -1,10 +1,1 @@
-<p align="center">https://youtu.be/o5FOQtS1az0?si=7tgSFtNn_ut8hucT</p>
-<p align="center">a wise man once said: "everyone picks their nose, but its what you do with your boogers afterwards that defines who you are"</p>
-
-###
-
-<div align="center">
-  <img height="200" src="<blockquote class="https://imgur.com/a/Xx1dS5s"  />
-</div>
-
-###
+<p align="center">https://www.youtube.com/watch?v=08x-4DRXzDg</p>
